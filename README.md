@@ -10,3 +10,64 @@ You can access this file via running 'npm i nodemon' in your terminal(i.e. Gitba
 
 You can access all of the dogs by accessing http://localhost:3000/dogs
 You can access a specific breed of dog by entering the breed after /dogs - i.e. http://localhost:3000/dogs/akita
+
+## Avaliable Breeds
+
+These are the current breeds you can access data on:
+
+Affenpinscher
+African
+Airedale
+Akita
+Appenzeller
+Australian
+Basenji
+Beagle
+Bluetick
+Borzoi
+Bouvier
+Boxer
+Brabancon
+Briard
+Brittany
+Bulldog
+Bullterrier
+Cairn
+Cattledog
+Chihuahua
+Chow
+Clumber
+Cockapoo
+Collie
+Coonhound
+Corgi
+Cotondetulear
+Dachshund
+Dalmatian
+Dane
+Deerhound
+Dhole
+Dingo
+Doberman
+Elkhound
+Entlebucher
+Eskimo
+Finnish
+Frise
+Germanshepherd
+Greyhound
+Groenendael
+Hound
+Husky
+Keeshond
+Kelpie
+Komondor
+Kuvasz
+Labrador
+Leonberg
+Lhasa
+Malamute
+Malinois
+Maltese
+Mastiff
+Mexicanhairless
