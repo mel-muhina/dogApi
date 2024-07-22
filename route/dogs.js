@@ -4,6 +4,6 @@ const dogs = require("../controller/dogs")
 
 router.get('/', dogs.index)
 
-// router.get("/:breed", dogs.show);
+router.get("/:breed", dogs.show);
 
 module.exports = router

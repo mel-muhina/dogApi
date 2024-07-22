@@ -8,4 +8,5 @@ You can access this file via running 'npm i nodemon' in your terminal(i.e. Gitba
 
 ## Avaliable Options
 
-You can access all of the dogs information by going to http://localhost:3000/dogs
+You can access all of the dogs by accessing http://localhost:3000/dogs
+You can access a specific breed of dog by entering the breed after /dogs - i.e. http://localhost:3000/dogs/akita

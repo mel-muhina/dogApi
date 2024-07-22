@@ -9,6 +9,16 @@ const index = async (req, res) => {
     }
 }
 
+const show = async (req, res) => {
+    const breed = req.params.breed.toLowerCase();
+
+    try {
+        const dog = await Dog.show(breed);
+        res.status(200).send(dog);
+    } catch(err) {
+        res.status(404).send({error: err})
+    }
+}
 
 
 
@@ -17,4 +27,5 @@ const index = async (req, res) => {
 
 
 
-module.exports = {index}
+
+module.exports = {index, show}

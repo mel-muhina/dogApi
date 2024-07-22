@@ -11,6 +11,16 @@ class Dog {
     static showAll() {
         return dogs.map(q => new Dog(q));
     }
+
+    static show(breed) {
+        const dog = dogs.find((dog) => dog.breed.toLowerCase() == breed);
+
+        if (dog) {
+            return new Dog(dog);
+        } else {
+            throw "The dog breed doesn't exist.";
+        }
+    }
 }
 
 
