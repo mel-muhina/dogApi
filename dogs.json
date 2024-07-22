@@ -1,0 +1,282 @@
+[
+    {
+        "breed": "affenpinscher",
+        "nickname": "The Black Devil",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "african",
+        "nickname": "The African Hunter",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "airedale",
+        "nickname": "King of Terriers",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "akita",
+        "nickname": "The Gentle Giant",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "appenzeller",
+        "nickname": "The Swiss Guard",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "australian",
+        "nickname": "The Aussie",
+        "lifespan": "15 years"
+    },
+    {
+        "breed": "basenji",
+        "nickname": "The Barkless Dog",
+        "lifespan": "16 years"
+    },
+    {
+        "breed": "beagle",
+        "nickname": "The Snoopy Dog",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "bluetick",
+        "nickname": "The Blue Hunter",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "borzoi",
+        "nickname": "The Russian Wolfhound",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "bouvier",
+        "nickname": "The Belgian Bear",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "boxer",
+        "nickname": "The Boxer",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "brabancon",
+        "nickname": "The Little Lion",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "briard",
+        "nickname": "The Shepherd Dog",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "brittany",
+        "nickname": "The Brittany Spaniel",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "bulldog",
+        "nickname": "The Bully",
+        "lifespan": "9 years"
+    },
+    {
+        "breed": "bullterrier",
+        "nickname": "The Gladiator",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "cairn",
+        "nickname": "The Toto Dog",
+        "lifespan": "15 years"
+    },
+    {
+        "breed": "cattledog",
+        "nickname": "The Heeler",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "chihuahua",
+        "nickname": "The Tiny Titan",
+        "lifespan": "16 years"
+    },
+    {
+        "breed": "chow",
+        "nickname": "The Lion Dog",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "clumber",
+        "nickname": "The Clumber Spaniel",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "cockapoo",
+        "nickname": "The Doodle",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "collie",
+        "nickname": "The Lassie Dog",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "coonhound",
+        "nickname": "The Hunter",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "corgi",
+        "nickname": "The Dwarf Dog",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "cotondetulear",
+        "nickname": "The Coton",
+        "lifespan": "15 years"
+    },
+    {
+        "breed": "dachshund",
+        "nickname": "The Sausage Dog",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "dalmatian",
+        "nickname": "The Spotted Dog",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "dane",
+        "nickname": "The Gentle Giant",
+        "lifespan": "8 years"
+    },
+    {
+        "breed": "deerhound",
+        "nickname": "The Highlander",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "dhole",
+        "nickname": "The Whistling Hunter",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "dingo",
+        "nickname": "The Wild Dog",
+        "lifespan": "9 years"
+    },
+    {
+        "breed": "doberman",
+        "nickname": "The Protector",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "elkhound",
+        "nickname": "The Elk Chaser",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "entlebucher",
+        "nickname": "The Alpine Herder",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "eskimo",
+        "nickname": "The Snow Dog",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "finnish",
+        "nickname": "The Finnish Spitz",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "frise",
+        "nickname": "The Bichon",
+        "lifespan": "15 years"
+    },
+    {
+        "breed": "germanshepherd",
+        "nickname": "The GSD",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "greyhound",
+        "nickname": "The Racer",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "groenendael",
+        "nickname": "The Belgian Shepherd",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "hound",
+        "nickname": "The Tracker",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "husky",
+        "nickname": "The Sled Dog",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "keeshond",
+        "nickname": "The Smiling Dutchman",
+        "lifespan": "13 years"
+    },
+    {
+        "breed": "kelpie",
+        "nickname": "The Australian Kelpie",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "komondor",
+        "nickname": "The Mop Dog",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "kuvasz",
+        "nickname": "The Hungarian Guardian",
+        "lifespan": "11 years"
+    },
+    {
+        "breed": "labrador",
+        "nickname": "The Lab",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "leonberg",
+        "nickname": "The Gentle Giant",
+        "lifespan": "9 years"
+    },
+    {
+        "breed": "lhasa",
+        "nickname": "The Lhasa Apso",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "malamute",
+        "nickname": "The Mal",
+        "lifespan": "12 years"
+    },
+    {
+        "breed": "malinois",
+        "nickname": "The Belgian Malinois",
+        "lifespan": "14 years"
+    },
+    {
+        "breed": "maltese",
+        "nickname": "The Malt",
+        "lifespan": "15 years"
+    },
+    {
+        "breed": "mastiff",
+        "nickname": "The Mastiff",
+        "lifespan": "10 years"
+    },
+    {
+        "breed": "mexicanhairless",
+        "nickname": "The Xolo",
+        "lifespan": "13 years"
+    }
+]
