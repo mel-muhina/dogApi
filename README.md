@@ -15,59 +15,59 @@ You can access a specific breed of dog by entering the breed after /dogs - i.e. 
 
 These are the current breeds you can access data on:
 
-Affenpinscher
-African
-Airedale
-Akita
-Appenzeller
-Australian
-Basenji
-Beagle
-Bluetick
-Borzoi
-Bouvier
-Boxer
-Brabancon
-Briard
-Brittany
-Bulldog
-Bullterrier
-Cairn
-Cattledog
-Chihuahua
-Chow
-Clumber
-Cockapoo
-Collie
-Coonhound
-Corgi
-Cotondetulear
-Dachshund
-Dalmatian
-Dane
-Deerhound
-Dhole
-Dingo
-Doberman
-Elkhound
-Entlebucher
-Eskimo
-Finnish
-Frise
-Germanshepherd
-Greyhound
-Groenendael
-Hound
-Husky
-Keeshond
-Kelpie
-Komondor
-Kuvasz
-Labrador
-Leonberg
-Lhasa
-Malamute
-Malinois
-Maltese
-Mastiff
-Mexicanhairless
+* Affenpinscher
+* African
+* Airedale
+* Akita
+* Appenzeller
+* Australian
+* Basenji
+* Beagle
+* Bluetick
+* Borzoi
+* Bouvier
+* Boxer
+* Brabancon
+* Briard
+* Brittany
+* Bulldog
+* Bullterrier
+* Cairn
+* Cattledog
+* Chihuahua
+* Chow
+* Clumber
+* Cockapoo
+* Collie
+* Coonhound
+* Corgi
+* Cotondetulear
+* Dachshund
+* Dalmatian
+* Dane
+* Deerhound
+* Dhole
+* Dingo
+* Doberman
+* Elkhound
+* Entlebucher
+* Eskimo
+* Finnish
+* Frise
+* Germanshepherd
+* Greyhound
+* Groenendael
+* Hound
+* Husky
+* Keeshond
+* Kelpie
+* Komondor
+* Kuvasz
+* Labrador
+* Leonberg
+* Lhasa
+* Malamute
+* Malinois
+* Maltese
+* Mastiff
+* Mexicanhairless
