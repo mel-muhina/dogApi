@@ -33,7 +33,7 @@ const create = async (req, res) => {
 
 const update = async (req, res) => {
     const data = req.body;
-    const breed = req.params?.breed.toLowerCase()
+    const breed = req.params.breed.toLowerCase()
 
     
       
