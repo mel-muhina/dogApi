@@ -11,6 +11,6 @@ router.post("/", dogs.create);
 
 router.patch("/:breed", dogs.update);
 
-// router.delete("/:name", dogs.destroy);
+router.delete("/:breed", dogs.destroy);
 
 module.exports = router

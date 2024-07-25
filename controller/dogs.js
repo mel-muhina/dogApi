@@ -57,6 +57,20 @@ const update = async (req, res) => {
 }
 
 
+const destroy = async (req, res) => {
+    // const data = req.body;
+    const breed = req.params.breed.toLowerCase(); 
+      
+    try {
+        const dog = await Dog.show(breed)
+        const result = await dog.destroy();
+     
+        res.sendStatus(204)    
+       
+    } catch(err) {
+      res.status(404).send({ error: err })
+    }
+}
 
 
 
@@ -64,4 +78,4 @@ const update = async (req, res) => {
 
 
 
-module.exports = {index, show, create, update}
+module.exports = {index, show, create, update, destroy}

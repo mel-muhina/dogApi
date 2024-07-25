@@ -42,6 +42,17 @@ class Dog {
             throw "Dog not found!"
         }
      }
+
+     destroy() {
+        const deletedDog = dogs.find(dog => dog.breed.toLowerCase() === this.breed.toLowerCase());
+
+        if(deletedDog) {
+            const index = dogs.indexOf(deletedDog);
+            dogs.splice(index, 1);
+        } else {
+            throw "Breed not found"
+        };
+     }
 }
 
 
