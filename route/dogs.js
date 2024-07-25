@@ -9,7 +9,7 @@ router.get("/:breed", dogs.show);
 
 router.post("/", dogs.create);
 
-router.patch("/:name", dogs.update);
+router.patch("/:breed", dogs.update);
 
 // router.delete("/:name", dogs.destroy);
 
